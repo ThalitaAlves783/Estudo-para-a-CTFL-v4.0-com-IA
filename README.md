@@ -42,7 +42,7 @@ Material de estudo independente, sem vínculo com o ISTQB® ou o BSTQB. O syllab
 
 **Thalita Alves dos Santos**, analista de qualidade, certificada ISTQB® CTFL v4.0.
 
-- LinkedIn: https://www.linkedin.com/in/SEU-PERFIL
-- GitHub: https://github.com/SEU-USUARIO
+- LinkedIn: [https://www.linkedin.com/in/SEU-PERFIL](https://www.linkedin.com/in/thalita-alves-qa/)
+- GitHub: [https://github.com/SEU-USUARIO](https://github.com/ThalitaAlves783)
 
 Se este material te ajudou, deixe uma ⭐ no repositório e me conte no LinkedIn como foi a sua prova!
